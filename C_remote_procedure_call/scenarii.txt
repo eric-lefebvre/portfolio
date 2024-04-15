@@ -1,0 +1,103 @@
+﻿Eric LEFEBVRE Victor QUILGARS L3 IFA 3
+Scénario d’utilisation
+
+
+1. Inscription de 3 utilisateurs successivement:
+
+
+Utilisateur 1:
+Nom: Eric
+Email: eric.lefebvre@etudiant.univ-brest.fr
+Adresse: 42 rue Albert Louppe
+
+
+Utilisateur 2:
+Nom: Victor
+Email: victor.quilgars@etudiant.univ-brest.fr
+Adresse: 20 rue des Salles
+
+
+Utilisateur 3:
+Nom: Francis
+Email: francis.cabrel@etudiant.univ-brest.fr
+Adresse: Camargue
+
+
+2. Désinscription de l’utilisateur 3
+
+
+3. Ajout de 2 abonnements:
+
+
+Abonnement 1:
+Id: 1
+Abonné: Eric
+Nom: Netflix
+Prix: 5€
+
+
+Abonnement 2:
+Id: 2
+Abonné: Eric
+Nom: Canal
+Prix: 10€
+
+
+4. Suppression de l’abonnement 2
+
+
+5. Proposition de 2 partages
+
+
+Partage 1:
+Id: 1
+Propriétaire du partage: Eric
+Abonnement: Netflix
+Prix: 2€
+
+
+Partage 2:
+Id: 2
+Propriétaire du partage: Eric
+Abonnement: Netflix
+Prix: 4€
+
+
+6. Suppression du partage 2
+
+
+7. Recherche d’un partage
+
+
+Le partage recherché concerne Netflix pour un prix maximal de 20€.
+
+
+8. Souscription à un partage
+
+
+Utilisateur qui souscrit: Victor
+Partage concerné: Résultat de la recherche du partage
+
+
+9. Annulation de la souscription faite précédemment
+
+
+10.  Ajout d’une évaluation
+
+
+Evaluateur: Victor
+Evalué: Eric
+Note: 5
+Commentaire: C’est super !
+
+
+11. Connection de l’utilisateur 1
+
+
+12. Mise à jour des informations de l’utilisateur 1
+
+
+L’utilisateur connecté (Eric) change de nom et d’email.
+Nouveau nom: Victor
+Nouvel email: victor.quilgars@etudiant.univ-brest.fr
+Nouvelle adresse: 20 rue des Salles
